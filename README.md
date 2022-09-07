@@ -3,6 +3,9 @@ show and temporary log LAN and WAN Information
 
 
 
+
+
+
 ncurses output :
 
       speenux @ 192.168.1.20 
