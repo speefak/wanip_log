@@ -1,9 +1,6 @@
 show and temporary log LAN and WAN Information
 
-
-
-
-
+integrated in => https://github.com/speefak/ipspec
 
 
 ncurses output :
